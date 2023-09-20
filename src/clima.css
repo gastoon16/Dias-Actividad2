@@ -1,0 +1,20 @@
+.Hora {
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .imagenes {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 10px;
+  }
+  
